@@ -90,7 +90,7 @@ npm run dev
 (Add screenshots here of your app interface or a short GIF preview)
 
 👩‍💻 Author
-Made with 💙 by Pallavi Acharya
+Made with 💙 by Priyanshu Acharya
 LinkedIn | Portfolio
 
 📬 Contributions & Feedback
