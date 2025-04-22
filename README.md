@@ -19,7 +19,7 @@ You can search, browse, and explore beautiful royalty-free images powered by the
 🔗 **Live Demo**: [View on Vercel](https://pixabay-clone-react-blue.vercel.app/)
 
 ---
-![App Screenshot](.[/assets/screenshot.png](https://github.com/PriyanshuAcharya41/Pixabay_Clone_React/blob/main/error1.png))
+![App Screenshot](.[/assets/error1.png)
 
 
 ## 🚀 Features
@@ -78,7 +78,7 @@ npm run dev
 ✏️ How to Contribute or Modify the Project
 🔃 Fork the repository on GitHub
 
-![App Screenshot]([./assets/screenshot.png](https://github.com/PriyanshuAcharya41/Pixabay_Clone_React/blob/main/error2.png))
+![App Screenshot]([./assets/error2.png)
 
 🛠️ Make changes to your forked repo
 
